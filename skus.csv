@@ -1,0 +1,31 @@
+sku_id,category,unit_price,is_high_risk
+SKU-500,Cosmetics & Beauty,41.61,0
+SKU-501,Infant Care,16.86,0
+SKU-502,Infant Care,13.36,1
+SKU-503,Infant Care,26.11,1
+SKU-504,OTC Medicine,44.47,0
+SKU-505,Infant Care,16.96,1
+SKU-506,OTC Medicine,32.87,1
+SKU-507,Cosmetics & Beauty,36.18,1
+SKU-508,OTC Medicine,16.79,1
+SKU-509,Cosmetics & Beauty,34.94,0
+SKU-510,Infant Care,21.61,0
+SKU-511,Infant Care,31.4,1
+SKU-512,Cosmetics & Beauty,31.44,1
+SKU-513,Personal Care,27.82,1
+SKU-514,Cosmetics & Beauty,11.34,0
+SKU-515,Personal Care,38.91,0
+SKU-516,OTC Medicine,19.87,1
+SKU-517,OTC Medicine,14.9,1
+SKU-518,OTC Medicine,9.51,1
+SKU-519,Infant Care,29.86,1
+SKU-520,OTC Medicine,33.07,1
+SKU-521,Personal Care,8.61,0
+SKU-522,OTC Medicine,26.95,0
+SKU-523,Cosmetics & Beauty,16.38,1
+SKU-524,Cosmetics & Beauty,31.87,1
+SKU-525,Infant Care,14.45,0
+SKU-526,Cosmetics & Beauty,33.56,0
+SKU-527,Personal Care,22.31,1
+SKU-528,OTC Medicine,42.66,0
+SKU-529,Infant Care,13.09,0
